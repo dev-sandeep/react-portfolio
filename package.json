@@ -2,6 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/dev-sandeep/react-portfolio",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^16.6.0",
